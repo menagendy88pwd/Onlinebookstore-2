@@ -30,13 +30,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Koftown Tech Releases Nexus Repository</name>
-	      <url>http://54.89.240.111:8081/repository/second_bookstore-release/</url>
+	      <url>http://18.208.161.79:8081/repository/second_bookstore-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Koftown Tech Snapshot Nexus Repository </name>
-	      <url>http://54.89.240.111:8081/repository/second_boookstore-snapshot/</url>
+	      <url>http://18.208.161.79:8081/repository/second_boookstore-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
